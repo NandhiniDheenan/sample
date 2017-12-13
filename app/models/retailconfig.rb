@@ -1,0 +1,2 @@
+class Retailconfig < ApplicationRecord
+end

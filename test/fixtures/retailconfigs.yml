@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  updated_date: 2017-12-13
+  updated_time: 2017-12-13 09:30:35
+  uid: MyString
+
+two:
+  updated_date: 2017-12-13
+  updated_time: 2017-12-13 09:30:35
+  uid: MyString
